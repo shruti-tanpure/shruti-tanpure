@@ -2,13 +2,13 @@
 
 <h2>👩🏾‍💻 About me</h2>
 
-I am Shruti Tanpure.
+Hello! I am Shruti Tanpure.
 
-✨I'm a programmer that lives to develop and create things.
+✨I am currently a final year student at MKSSS's Cummins College of Engineering for Women, Pune, majoring in Information Technology.
 
-✨I enjoy learning new things on a daily basis. It could be an algorithm, software or a technology.
+✨I have interned at Wells Fargo as a technical intern in the summers of 2022.
 
-✨I'm a creative person. I enjoy designing posters.
+✨I'm a vivid learner, and love to get to hear about and know about new technologies.
 
 ✨I enjoy connecting with individuals and learning about their journeys because it allows me to broaden my horizons and gain new ideas on a variety of topics.
 
@@ -22,7 +22,6 @@ I am Shruti Tanpure.
 <a href="https://www.javascript.com/">![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)</a>
 <a href="https://getbootstrap.com/">![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)</a>
 <a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)</a>
-<a href="https://www.oracle.com/in/index.html">![Oracle](https://img.shields.io/badge/-oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)</a>
 <a href="https://www.mongodb.com/">![MongoDB](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)</a>
 <a href="https://spring.io/">![Spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)</a>
 <a href="https://spring.io/projects/spring-boot">![Spring Boot](https://img.shields.io/badge/-spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)</a>
