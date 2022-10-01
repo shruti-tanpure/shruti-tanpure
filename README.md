@@ -1,29 +1,85 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h2 align="center"><img src=""></h2>
 
-<h1 align="center">Hi 👋, I'm Shruti Tanpure</h1>
-<h3 align="center">A passionate software developer from India</h3>
-<!-- <img  alt="Coding" width="250" src="https://previews.123rf.com/images/yupiramos/yupiramos1709/yupiramos170931948/87065031-girl-sitting-working-laptop-program-code-php-search-technology-vector-illustration.jpg" /> -->
+<h2>👩🏾‍💻 About me</h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shruti-tanpure&label=Profile%20views&color=0e75b6&style=flat" alt="shruti-tanpure" /> </p>
+I am Shruti Tanpure.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shruti-tanpure" alt="shruti-tanpure" /></a> </p>
+✨I'm a programmer that lives to develop and create things.
 
-- 🌱 I’m currently learning **ReactJS, Angular, Spring Tool Suite**
+✨I enjoy learning new things on a daily basis. It could be an algorithm, software or a technology.
 
-- 📫 How to reach me **shruti.tanpure22@gmail.com**
+✨I'm a creative person. I enjoy designing posters.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shruti tanpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti tanpure" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shruti_tanpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shruti_tanpure" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shruti_tanpure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shruti_tanpure" height="30" width="40" /></a>
-</p>
+✨I enjoy connecting with individuals and learning about their journeys because it allows me to broaden my horizons and gain new ideas on a variety of topics.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<h2>🛠Tech Stack</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shruti-tanpure&show_icons=true&locale=en&layout=compact" alt="shruti-tanpure" /></p>
+<a href="https://www.programiz.com/c-programming">![C language](https://img.shields.io/badge/-c%20language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)</a>
+<a href="https://www.w3schools.com/CPP/default.asp">![C++](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)</a>
+<a href="https://www.java.com/en/">![Java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=white)</a>
+<a href="https://www.python.org">![Python](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=white)</a>
+<a href="https://www.w3schools.com/css/">![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</a>
+<a href="https://www.w3schools.com/html/">![HTML5](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</a>
+<a href="https://www.javascript.com/">![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)</a>
+<a href="https://www.w3schools.com/xml/xml_whatis.asp">![Xml](https://img.shields.io/badge/-xml-000000?style=for-the-badge&logo=xml&logoColor=white)</a>
+<a href="https://getbootstrap.com/">![Bootstrap](https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)</a>
+<a href="https://www.mysql.com/">![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)</a>
+<a href="https://www.oracle.com/in/index.html">![Oracle](https://img.shields.io/badge/-oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)</a>
+<a href="https://www.sqlite.org/index.html">![SQLite](https://img.shields.io/badge/-sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)</a>
+<a href="https://www.mongodb.com/">![MongoDB](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)</a>
+<a href="https://www.djangoproject.com/">![Django](https://img.shields.io/badge/-django-092E20?style=for-the-badge&logo=django&logoColor=white)</a>
+<a href="https://spring.io/">![Spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)</a>
+<a href="https://spring.io/projects/spring-boot">![Spring Boot](https://img.shields.io/badge/-spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)</a>
+<a href="https://hibernate.org/">![Hibernate](https://img.shields.io/badge/-hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)</a>
+<a href="https://www.postman.com/">![Postman](https://img.shields.io/badge/-postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)</a>
+<a href="https://www.eclipse.org/">![Eclipse](https://img.shields.io/badge/-eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)</a>
+<a href="https://visualstudio.microsoft.com/">![Visual Studio](https://img.shields.io/badge/-visual%20studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)</a>
+<a href="https://code.visualstudio.com/">![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)</a>
+<a href="https://www.sublimetext.com/">![Sublime Text](https://img.shields.io/badge/-sublime%20text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)</a>
+<a href="https://atom.io/">![Atom](https://img.shields.io/badge/-atom-66595C?style=for-the-badge&logo=atom&logoColor=white)</a>
+<a href="https://www.codeblocks.org/">![Code Blocks](https://img.shields.io/badge/-Code::Blocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white)</a>
+<a href="https://www.spyder-ide.org/">![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=for-the-badge&logo=spyderide&logoColor=white)</a>
+<a href="https://www.anaconda.com/">![Anaconda](https://img.shields.io/badge/-anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)</a>
+<a href="https://developer.android.com/studio">![Andriod Studio](https://img.shields.io/badge/-android%20studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)</a>
+<a href="https://www.virtualbox.org/">![Virtualbox](https://img.shields.io/badge/-virtualbox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)</a>
+<a href="https://www.tutorialspoint.com/jsp/index.htm">![JSP](https://img.shields.io/badge/-jsp-000000?style=for-the-badge&logo=jsp&logoColor=white)</a>
+<a href="https://www.javatpoint.com/servlet-tutorial">![Servlet](https://img.shields.io/badge/-servlet-000000?style=for-the-badge&logo=servlet&logoColor=white)</a>
+<a href="https://www.php.net/">![PHP](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white)</a>
+<a href="https://www.apachefriends.org/index.html">![XAMPP](https://img.shields.io/badge/-xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)</a>
+<a href="https://tomcat.apache.org/">![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)</a>
+<a href="https://www.microsoft.com/en-in/windows?r=1">![Windows](https://img.shields.io/badge/-windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)</a>
+<a href="https://www.linux.org/">![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)</a>
+<a href="https://www.kali.org/">![Kali Linux](https://img.shields.io/badge/-kali%20linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)</a>
+<a href="https://www.tableau.com/">![Tableau](https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)</a>
+<a href="https://www.wireshark.org/">![Wireshark](https://img.shields.io/badge/-wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)</a>
+<a href="https://www.netacad.com/courses/packet-tracer">![Packet Tracer](https://img.shields.io/badge/-packet%20tracer-000000?style=for-the-badge&logo=packettracer&logoColor=white)</a>
+<a href="https://www.javatpoint.com/java-jdbc">![JDBC](https://img.shields.io/badge/-jdbc-000000?style=for-the-badge&logo=jdbc&logoColor=white)</a>
+<a href="https://www.w3schools.com/python/python_mysql_getstarted.asp">![PDBC](https://img.shields.io/badge/-pdbc-000000?style=for-the-badge&logo=pdbc&logoColor=white)</a>
+<a href="https://github.com/">![Github](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://jupyter.org/"> ![Jupyter](https://img.shields.io/badge/-jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)</a>
+<a href="https://numpy.org/"> ![NumPy](https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)</a>
+<a href="https://pandas.pydata.org/"> ![Pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)</a>
+<a href="https://scikit-learn.org/stable/"> ![scikit-learn](https://img.shields.io/badge/-scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)</a>
+<a href="https://www.blogger.com/about/?bpli=1"> ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
+<a href="https://portswigger.net/burp">![Burp Suite](https://img.shields.io/badge/-burp%20suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white)</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shruti-tanpure&show_icons=true&locale=en" alt="shruti-tanpure" /></p>
+<h3>📈 Summary</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-tanpure&" alt="shruti-tanpure" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srushti1006&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=srushti1006&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srushti1006&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srushti1006&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=srushti1006&theme=github_dark)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srushti1006&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Graph](https://activity-graph.herokuapp.com/graph?username=srushti1006&theme=synthwave-84)
+
+<h2>📨 Connect with me</h2>
+
+<a href="mailto:srushti.chiddarwar@cumminscollege.in">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/srushtic/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.instagram.com/s_u_r_shit/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://www.facebook.com/srushti.chiddarwar/">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+<a href="https://discordapp.com/users/4744/">![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)</a>
+<a href="https://twitter.com/SrushtiChiddar2">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
