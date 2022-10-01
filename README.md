@@ -67,3 +67,5 @@ I am Shruti Tanpure.
 <a href="mailto:shruti.tanpure22@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/shruti-tanpure-18076319b">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.hackerrank.com/shruti_tanpure">![Hackerrank](https://img.shields.io/badge/Hackerrank-7289DA?style=for-the-badge&logo=hackerrank&logoColor=white)</a>
+<a href="https://www.leetcode.com/shruti_tanpure">![LeetCode](https://img.shields.io/badge/LeetCode-7289DA?style=for-the-badge&logo=leetcode&logoColor=white)</a>
+
