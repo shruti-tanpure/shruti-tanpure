@@ -6,7 +6,7 @@ Hello! I am Shruti Tanpure.
 
 🌱 I am currently a final year student at MKSSS's Cummins College of Engineering for Women, Pune, majoring in Information Technology.
 
-🌱 I have interned at Wells Fargo as a technical intern in the summers of 2022.
+🌱 I have interned at Wells Fargo as a technical intern in the summer of 2022.
 
 🌱 I am a avid reader, a huge fiction fan, and love to hear and know about new technologies.
 
